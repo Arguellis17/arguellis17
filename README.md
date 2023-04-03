@@ -7,19 +7,19 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
 ***
 ## 🌱 Aprendiendo... 🌱
-<!--[![logos.png](https://i.postimg.cc/6pC6F32d/logos.png)](https://postimg.cc/Xr70CngJ)  -->  
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>    
+<!--[![logos.png](https://i.postimg.cc/6pC6F32d/logos.png)](https://postimg.cc/Xr70CngJ)  -->     
 Y otros mas ;)
+---
 ## 📫 Contactame :D 📫<h2>
 💌 juandavidaa@ufps.edu.co<p>
-<h2> ⚡ Me gusta...⚡<h2>
-<p>    
+---
+##⚡ Me gusta...⚡<h2>    
 ⛅️ *disfrutar la vida de la mejor manera c:*    
 💽 *escuchar musica*    
 🎸 *tocar guitarra*    
 💻 *informarme sobre el mundo de la programacion*    
 📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*    
-<p>    
+
 ---
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
