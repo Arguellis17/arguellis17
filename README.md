@@ -19,8 +19,6 @@ Y otros mas ;)
 🎸 *tocar guitarra*    
 💻 *informarme sobre el mundo de la programacion*    
 📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*    
-
----
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
 - [ ] Aprender HTML, CSS y JavaScript
