@@ -12,14 +12,13 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 Y otros mas ;)
 <h2> 📫 Contactame :D 📫<h2>
 <p>💌 juandavidaa@ufps.edu.co<p>
----
 <h2> ⚡ Me gusta...⚡<h2>
 <p>    
-⛅️ *disfrutar la vida de la mejor manera c:*    
+⛅️ *disfrutar la vida de la mejor manera c:*        
 💽 *escuchar musica*    
-🎸 *tocar guitarra*     
-💻 *informarme sobre el mundo de la programacion*      
-📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*    
+🎸 *tocar guitarra*         
+💻 *informarme sobre el mundo de la programacion*          
+📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*        
 <p>    
 ---
 ## ✨ Metas de este año ✨
