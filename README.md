@@ -4,15 +4,23 @@
 Soy un estudiante de la Universidad Francisco de Paula Santander en Colombia, actualmente en el quinto semestre de mi carrera. Desde que empecé a estudiar en el año 2020, he trabajado con el lenguaje de programacion **Java**, pero me gustaría aprender en profundidad la programación web y todas las tecnologías relacionadas con el frontend. Me apasiona trabajar en proyectos creativos y desafiantes que me permitan aprender y mejorar mis habilidades.  
 
 Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.   
->[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)
+>[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
 
+## 🌱 Aprendiendo... 🌱
+
+| Lenguaje   | Logo |
+| ------------- | ------------- |
+| Java          | [![logo-java.png](https://i.postimg.cc/RFJddc81/logo-java.png)](https://postimg.cc/zb5TXRq3)  |
+| HTML          | [![logo-html.png](https://i.postimg.cc/qvmGdbHX/logo-html.png)](https://postimg.cc/WdkZG73h) |
+| CSS           | [![logo-css.png](https://i.postimg.cc/VkNj4q0S/logo-css.png)](https://postimg.cc/2VPbSBwm)  |
+| JavaScript    | [![logo-javascript.png](https://i.postimg.cc/JztkjRSZ/logo-javascript.png)](https://postimg.cc/87QcSgpz) |
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
 - [ ] Aprender HTML, CSS y JavaScript
 - [ ] Aprender interfaces de usuario con Java y JFrame 
 - [ ] Aprender react 
 ---
-lol
+
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
