@@ -8,7 +8,7 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 ## 🌱 Aprendiendo... 🌱
 [![logos.png](https://i.postimg.cc/QtdXBJ6b/logos.png)](https://postimg.cc/cKPq2wGg)  
-### y otros mas ;)
+ y otros mas ;)
 
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
