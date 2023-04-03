@@ -5,7 +5,7 @@ Soy un estudiante de la [Universidad Francisco de Paula Santander](https://ww2.u
 
 Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.   
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
-
+***
 ## 🌱 Aprendiendo... 🌱
 <!--[![logos.png](https://i.postimg.cc/6pC6F32d/logos.png)](https://postimg.cc/Xr70CngJ)  -->  
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>     
