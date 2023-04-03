@@ -11,7 +11,12 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 *💻 informarme sobre el mundo de la programacion*    
 *🎸 escuchar musica y tocar guitarra, lit es lo mejor*    
 *📚 reforzar mis fortalezas y mejorar mis debilidades* 
-
+## ✨ Mis metas ✨
+- [x] Pertenecer a un semillero de programación web
+- [x] Aprender el funcionamiento de Git y Git Hub básico
+- [] Entender en profundidad el lenguaje de Java
+- [] Entender lo fundamental de HTML, CSS y JavaScript
+- [] Entender y manejar mi primer framework en la parte del frontend :)
 ## 📫 Contactame 📫:
 <p align="left">
 <a href="https://twitter.com/arguelloj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arguelloj17" height="30" width="40" /></a>
@@ -28,9 +33,9 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arguellis17&show_icons=true&locale=en" alt="arguellis17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arguellis17&" alt="arguellis17" /></p>    ---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arguellis17&" alt="arguellis17" /></p>    
 
->**She’s my fantasy, she only comes at night - Lil Peep
+>She’s my fantasy, she only comes at night - Lil Peep
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
