@@ -7,7 +7,8 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
 
 ## 🌱 Aprendiendo... 🌱
-<font color="red">Este texto será de color rojo</font>
+<span style="background-color: yellow; color: black;">Este texto tendrá un fondo amarillo y texto negro</span>
+
 
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
