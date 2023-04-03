@@ -1,5 +1,5 @@
 # Hola, mi nombre es Juan👋
-[![Presentacion.png](https://i.postimg.cc/tJf2NsSn/Presentacion.png)](https://postimg.cc/sGYYVgR3)  
+[![Presentacion.png](https://i.postimg.cc/tJf2NsSn/Presentacion.png)](https://postimg.cc/sGYYVgR3)  ---
 !Hola!, Me llamo Juan Arguello. Soy un estudiante de la Universidad Francisco de Paula Santander en Colombia, actualmente en el quinto semestre de mi carrera. Desde que empecé a estudiar en el año 2020, he trabajado con el lenguaje de programacion *java*, pero me gusta mucho la programación web y todas las tecnologías relacionadas con el frontend. Me apasiona trabajar en proyectos creativos y desafiantes que me permitan aprender y mejorar mis habilidades.
 
 Además, actualmente estoy aprendiendo el lenguaje de programación Java para ampliar mi conocimiento y habilidades en la programación. Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago.
