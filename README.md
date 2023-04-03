@@ -8,7 +8,8 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 ## 🌱 Aprendiendo... 🌱
 <span style="background-color: #FFC107">JAVA</span>  
-Este texto será de color rojo {: style="color: red"}
+Este texto será de color <font color='red'>rojo</font>
+
 
 
 
