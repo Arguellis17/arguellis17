@@ -6,7 +6,11 @@ Soy un estudiante de la [Universidad Francisco de Paula Santander](https://ww2.u
 Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.   
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
 ***
-
+##⚡Me gusta... ⚡
+*⛅️ disfrutar los pequeños momentos*    
+*💻 informarme sobre el mundo de la programacion*    
+*🎸 escuchar musica y tocar guitarra, lit es lo mejor*    
+*📚 reforzar mis fortalezas y mejorar mis debilidades* 
 <h3 align="left">📫 Contactame 📫:</h3>
 <p align="left">
 <a href="https://twitter.com/arguelloj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arguelloj17" height="30" width="40" /></a>
