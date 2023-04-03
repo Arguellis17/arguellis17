@@ -7,7 +7,7 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
 
 ## 🌱 Aprendiendo... 🌱
- [![logos.png](https://i.postimg.cc/cCDtgJMK/logos.png)](https://postimg.cc/QKTdvhzs)
+[![logos.png](https://i.postimg.cc/jjr2jN0g/logos.png)](https://postimg.cc/ts2pSsgW)
 
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
