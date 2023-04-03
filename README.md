@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Juan👋
-![Presentacion](https://www.canva.com/design/DAFfAwlawag/tZZtITGZHFG9UeELoG5HXA/view)
+![Presentacion](https://www.canva.com/design/DAFfAwlawag/view)
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
