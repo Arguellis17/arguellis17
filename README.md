@@ -10,7 +10,7 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 | Lenguaje   | Logo |
 | ------------- | ------------- |
-| Java          | [![logo-java.png](https://i.postimg.cc/Z5P1Fh3Y/logo-java.png)](https://postimg.cc/9DM8CKJs)|
+| Java          | [![logo-java.png](https://i.postimg.cc/kG4nLgQy/logo-java.png)](https://postimg.cc/ftGn9Zg3)|
 | HTML          | [![logo-html.png](https://i.postimg.cc/wjsB6MSf/logo-html.png)](https://postimg.cc/pmRvCWVz)|
 | CSS           | [![logo-css.png](https://i.postimg.cc/gJKJf7fG/logo-css.png)](https://postimg.cc/tZYp6Bqc)  |
 | JavaScript    | [![logo-javascript.png](https://i.postimg.cc/BQ78Sdt6/logo-javascript.png)](https://postimg.cc/vc98X2rF)|
