@@ -7,6 +7,8 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 ## ✨ Metas de este año ✨##
 - [x] Pertenecer a un semillero de investigacion 
+- [ ] Aprender HTML, CSS y JavaScript
+- [ ] Aprender interfaces de usuario con Java y JFrame 
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
