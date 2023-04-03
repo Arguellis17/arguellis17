@@ -14,9 +14,9 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 ## ✨ Mis metas ✨
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
-- []Entender en profundidad el lenguaje de Java
-- []Entender lo fundamental de HTML, CSS y JavaScript
-- []Entender y manejar mi primer framework en la parte del frontend :)
+- [ ] Entender en profundidad el lenguaje de Java
+- [ ] Entender lo fundamental de HTML, CSS y JavaScript
+- [ ] Entender y manejar mi primer framework en la parte del frontend :)
 ## 📫 Contactame 📫:
 <p align="left">
 <a href="https://twitter.com/arguelloj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arguelloj17" height="30" width="40" /></a>
