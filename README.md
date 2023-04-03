@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Juan👋
-![Presentacion](C:/Users/argue/Escritorio/UFPS/Recursos Git Hub/imgs/Presentacion.png)
+![Presentacion](https://www.canva.com/design/DAFfAwlawag/tZZtITGZHFG9UeELoG5HXA/view?utm_content=DAFfAwlawag&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
