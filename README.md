@@ -10,9 +10,9 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 
 | Lenguaje   | Logo |
 | ------------- | ------------- |
-| Java          | [![logo-java.png](https://i.postimg.cc/RFJddc81/logo-java.png)](https://postimg.cc/zb5TXRq3)  |
-| HTML          | [![logo-html.png](https://i.postimg.cc/qvmGdbHX/logo-html.png)](https://postimg.cc/WdkZG73h) |
-| CSS           | [![logo-css.png](https://i.postimg.cc/VkNj4q0S/logo-css.png)](https://postimg.cc/2VPbSBwm)  |
+| Java          | [![logo-java.png](https://i.postimg.cc/kG4nLgQy/logo-java.png)](https://postimg.cc/ftGn9Zg3)|
+| HTML          | [![logo-html.png](https://i.postimg.cc/wjsB6MSf/logo-html.png)](https://postimg.cc/pmRvCWVz)|
+| CSS           | [![logo-css.png](https://i.postimg.cc/gJKJf7fG/logo-css.png)](https://postimg.cc/tZYp6Bqc)  |
 | JavaScript    | [![logo-javascript.png](https://i.postimg.cc/BQ78Sdt6/logo-javascript.png)](https://postimg.cc/vc98X2rF)|
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
