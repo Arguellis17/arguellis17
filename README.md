@@ -10,7 +10,7 @@ Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta
 [![logos.png](https://i.postimg.cc/QtdXBJ6b/logos.png)](https://postimg.cc/cKPq2wGg)   
  y otros mas ;)
 ---
-##📫 Contactame :D 📫 
+##📫 Contactame :D 📫    
 💌 juandavidaa@ufps.edu.co
 
 ## ✨ Metas de este año ✨
