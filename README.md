@@ -5,7 +5,7 @@ Soy un estudiante de la Universidad Francisco de Paula Santander en Colombia, ac
 
 Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.   
 >[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)  
-<span style="background-color: #FFA500; padding: 5px;">JAVA</span>
+  a
 
 ## 🌱 Aprendiendo... 🌱
 <span style="background-color: #FFC107">JAVA</span>  
