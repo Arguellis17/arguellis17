@@ -5,7 +5,7 @@ Soy un estudiante de la Universidad Francisco de Paula Santander en Colombia, ac
 
 Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. 
 
-## ✨ Metas de este año ✨##
+## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
 - [ ] Aprender HTML, CSS y JavaScript
 - [ ] Aprender interfaces de usuario con Java y JFrame 
