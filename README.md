@@ -1,5 +1,10 @@
 ### Hola, mi nombre es Juan👋
 [![Presentacion.png](https://i.postimg.cc/tJf2NsSn/Presentacion.png)](https://postimg.cc/sGYYVgR3)
+#¡Hola! Soy Juan Arguello, un estudiante de la Universidad Francisco de Paula Santander, actualmente en el quinto semestre de mi carrera. Desde que empecé a estudiar en 2020, me he enfocado en el diseño de la programación web y todas las tecnologías relacionadas con el frontend. Me apasiona trabajar en proyectos creativos y desafiantes que me permitan aprender y mejorar mis habilidades.
+
+Además, actualmente estoy aprendiendo el lenguaje de programación Java para ampliar mi conocimiento y habilidades en la programación. Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago.
+
+Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. Si necesitas un miembro del equipo que sea trabajador, dedicado y apasionado por el diseño de la programación web y Java, ¡no dudes en contactarme! Estoy seguro de que podemos trabajar juntos para lograr grandes cosas.
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
