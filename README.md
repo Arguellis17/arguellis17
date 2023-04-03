@@ -13,7 +13,7 @@ Y otros mas ;)
 ## 📫 Contactame :D 📫<h2>
 💌 juandavidaa@ufps.edu.co<p>
 ---
-##⚡ Me gusta...⚡<h2>    
+##⚡ Me gusta...⚡## ✨ Metas de este año ✨ 
 ⛅️ *disfrutar la vida de la mejor manera c:*    
 💽 *escuchar musica*    
 🎸 *tocar guitarra*    
