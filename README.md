@@ -14,11 +14,11 @@ y otros mas ;)
 💌 juandavidaa@ufps.edu.co
 ---
 ## ⚡ Me gusta...⚡    
-⛅️ *disfrutar la vida de la mejor manera c:*
-💽 *escuchar musica*
-🎸 *tocar guitarra*    
-💻 *informarme sobre el mundo de la programacion*    
-📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*    
+⛅️ *disfrutar la vida de la mejor manera c:*    
+💽 *escuchar musica*    
+🎸 *tocar guitarra*     
+💻 *informarme sobre el mundo de la programacion*      
+📚 *mejorar en mi dia a dia mis fortalezas y corregir mis debilidades*        
 ---
 ## ✨ Metas de este año ✨
 - [x] Pertenecer a un semillero de investigacion 
