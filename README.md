@@ -1,5 +1,5 @@
 # Ciaoussu, mi nombre es Juan👋🐱
-[![Presentacion.png](https://i.postimg.cc/tJf2NsSn/Presentacion.png)](https://postimg.cc/sGYYVgR3)  
+[![git.png](https://i.postimg.cc/02k1kQcY/git.png)](https://postimg.cc/DmMM52V0)
 ---
 Soy un estudiante de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/oferta-academica/ingenieria-de-sistemas) en Colombia, actualmente en el V semestre de mi carrera. Desde que empecé a estudiar en el año 2020, he trabajado con el lenguaje de programacion **Java**, pero me gustaría aprender en profundidad la programación web y todas las tecnologías relacionadas con el frontend. Me apasiona trabajar en proyectos creativos y desafiantes que me permitan aprender y mejorar mis habilidades.  
 
