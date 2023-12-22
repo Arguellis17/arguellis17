@@ -1,7 +1,7 @@
 # <p align ="center"> ola 😺 </p>  
 
 <div style="text-align: center;">
-  <a href="https://postimg.cc/Bjm4fGxb" tittle="Presentacion">
+  <a href="https://postimg.cc/Bjm4fGxb" target="blank">
     <img src="https://i.postimg.cc/cJSHYxCR/Agregar-un-t-tulo.png" alt="Agregar un título">
   </a>
 </div>
