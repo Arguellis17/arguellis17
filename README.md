@@ -1,43 +1,54 @@
-# <p align ="center"> ola 😺 </p>
-<p align="center">
-  <a href="https://postimg.cc/DmMM52V0">
-    <img src="https://i.postimg.cc/02k1kQcY/git.png" alt="Git Logo">
+# <p align ="center"> ola 😺 </p>  
+
+<div style="text-align: center;">
+  <a href="https://postimg.cc/Bjm4fGxb" tittle="Presentacion">
+    <img src="https://i.postimg.cc/cJSHYxCR/Agregar-un-t-tulo.png" alt="Agregar un título">
   </a>
-</p>
+</div>
 
----
-Soy un estudiante de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/oferta-academica/ingenieria-de-sistemas) en Colombia, actualmente en el VI semestre de mi carrera. Desde que empecé a estudiar en el año 2020, he trabajado con el lenguaje de programacion **Java**, me apasiona trabajar en proyectos creativos y desafiantes que me permitan aprender y mejorar mis habilidades. Este github lleva el registro de proyectos que he hecho durante mi carrera como estudiante de ingenieria en sistemas.
 
-Me considero una persona ambiciosa, proactiva, rigurosa y estructurada. Me gusta trabajar en equipo y aprender de mis compañeros para obtener mejores resultados. Me esfuerzo por cumplir mis objetivos y siempre busco mejorar en todo lo que hago. Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.   
->[🔍 Visita mi Universidad ](https://ww2.ufps.edu.co/)      
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+
+![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+
+## About Me :
+
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
    
-## ⚡Me gusta...⚡    
-*⛅️ disfrutar los pequeños momentos*    
-*💻 informarme sobre el mundo de la programacion*    
-*🎸 escuchar musica y tocar guitarra, lit es lo mejor*    
-*📚 reforzar mis fortalezas y mejorar mis debilidades* 
-## ✨ Mis metas ✨
-- [x] Pertenecer a un semillero de programación web
-- [x] Aprender el funcionamiento de Git y Git Hub básico
-- [ ] Manejo de Java con PHP 
-- [ ] Manejo de Excel y springs
 
-## 🌱Aprendiendo...🌱
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>  
-  
-## 😹 Historial de mi Git Hub 😹
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arguellis17" alt="arguellis17" /></a> </p>    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arguellis17&show_icons=true&locale=en&layout=compact" alt="arguellis17" /></p>    
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arguellis17&show_icons=true&locale=en" alt="arguellis17" /></p>    
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arguellis17&" alt="arguellis17" /></p>    
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arguellis17&label=Profile%20views&color=0e75b6&style=flat" alt="arguellis17" /> </p>    
-
-## Some kind of nature 😿
->She’s my fantasy, she only comes at night - Lil Peep
 <!--
 **Arguellis17/arguellis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
