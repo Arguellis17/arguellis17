@@ -1,4 +1,4 @@
-# Ciaoussu, mi nombre es Juan👋🐱
+# <p align ="center"> ola 😺 </p>
 <p align="center">
   <a href="https://postimg.cc/DmMM52V0">
     <img src="https://i.postimg.cc/02k1kQcY/git.png" alt="Git Logo">
