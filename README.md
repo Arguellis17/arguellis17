@@ -17,11 +17,11 @@
 ## ✨ Mis metas ✨
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
-- [ ] Manejo de Java con PHP 
+- [X] Creación de Bases de Datos con Posgre SQL
 - [ ] Manejo de Excel y springs
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,github,git,mysql,vscode,eclipse )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,tensorflow,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
 
 ## 😹 Github Stats 😹
 ![arguellis17's Stats](https://github-readme-stats.vercel.app/api?username=arguellis17&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
