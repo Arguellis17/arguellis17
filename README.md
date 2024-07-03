@@ -18,7 +18,7 @@
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
 - [X] Creación de Bases de Datos con Posgre SQL
-- [ ] Manejo de Excel y springs
+- [ ] Manejo de HTML, CSS y JS
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,tensorflow,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
