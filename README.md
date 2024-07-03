@@ -17,7 +17,7 @@
 ## ✨ Mis metas ✨
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
-- [X] Creación de Bases de Datos con Posgre SQL
+- [X] Creación de Bases de Datos con Posgres SQL
 - [ ] Manejo de HTML, CSS y JS
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
