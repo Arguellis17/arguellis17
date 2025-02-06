@@ -1,7 +1,8 @@
 
 <div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Azzar,</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a freelance developer. Please take a look at my <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">online resume</a> for more information.</h4>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
 </div>
 
 
