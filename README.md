@@ -1,11 +1,8 @@
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
-</div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
@@ -21,11 +18,10 @@
 ## ✨ Mis metas ✨
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
-- [X] Creación de Bases de Datos con Posgres SQL
 - [ ] Manejo de HTML, CSS y JS
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,tensorflow,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
 
 ## 😹 Github Stats 😹
 ![arguellis17's Stats](https://github-readme-stats.vercel.app/api?username=arguellis17&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
