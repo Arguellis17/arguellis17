@@ -1,9 +1,7 @@
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+    <img src="https://github.com/user-attachments/assets/ddc5238d-c4ce-4121-9b6e-b628e3510515" alt="GIF Centrado">
+</div>
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
