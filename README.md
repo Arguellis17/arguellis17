@@ -19,7 +19,8 @@
 ## ✨ Mis metas ✨
 - [x] Pertenecer a un semillero de programación web
 - [x] Aprender el funcionamiento de Git y Git Hub básico
-- [ ] Manejo de HTML, CSS y JS
+- [ ] Uso de Spring Boot como BackEnd
+- [x] Manejo de HTML y CSS
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
