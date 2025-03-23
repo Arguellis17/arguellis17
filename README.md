@@ -23,7 +23,7 @@
 - [x] Manejo de HTML y CSS
 
 ## 🧑‍💻 Tecnologías 🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,idea,html,css,py,notion,gmail,github,git,mysql,vscode,figma )](https://skillicons.dev)
 
 ## 😹 Github Stats 😹
 ![arguellis17's Stats](https://github-readme-stats.vercel.app/api?username=arguellis17&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
